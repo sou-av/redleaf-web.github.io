@@ -1,5 +1,6 @@
 * {
     font-family: MedievalSharp;
+    margin: 0;
 }
 .homepage {
     
@@ -15,6 +16,22 @@
 .title {
     text-align: center;
     width: 100%;
+}
+.conteudo {
+    color: white;
+    background-color: #3c3c3c;
+    width: 100%;
+    margin-top: 20;
+    padding: 20;
+    display: flex;
+    justify-content: center;
+}
+.card {
+    background-color: rgb(131, 35, 35);
+    width: 35%;
+    margin-right: 20;
+    padding: 15;
+    border-radius: 15%;
 }
 .linktree {
     width: 80%;
