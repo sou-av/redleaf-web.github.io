@@ -41,13 +41,12 @@
     justify-content: center;
 }
 .button {
-    width: 64px;
-    height: 64px;
-    margin: 10;
+    width: 96px;
+    height: 96px;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 .button-icon {
     height: 50%;    
